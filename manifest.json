@@ -2,8 +2,8 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "fullscreen",
-    "scope": "/MORRA_CINESE",
-    "start_url": "/https://antonio-creator-blip.github.io/MORRA_CINESE",
+    "scope": "/MORRA_CINESE/",
+    "start_url": "/https://antonio-creator-blip.github.io/MORRA_CINESE/",
     "app_name": "Morra Cinese",
     "short_name": "scf",
     "icons": [
