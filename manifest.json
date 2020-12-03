@@ -1,9 +1,9 @@
 {
-    "theme_color": "#e0e00b",
-    "background_color": "#e0e00b",
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
     "display": "fullscreen",
-    "scope": "/MORRA_CINESE/",
-    "start_url": "https://antonio-creator-blip.github.io/MORRA_CINESE",
+    "scope": "/MORRA_CINESE",
+    "start_url": "/https://antonio-creator-blip.github.io/MORRA_CINESE/",
     "app_name": "Morra Cinese",
     "short_name": "scf",
     "icons": [
@@ -13,17 +13,20 @@
             "type": "image/png"
         },
         {
-            "src": "/MORRA_CINESE/icon-256x256.png",
+            "src": "/MORRA_CINESE/icon-192x192.png",
+            "src": "/icon-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/MORRA_CINESE/icon-384x384.png",
+            "src": "/MORRA_CINESE/icon-192x192.png",
+            "src": "/icon-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "/MORRA_CINESE/icon-512x512.png",
+            "src": "/MORRA_CINESE/icon-192x192.png",
+            "src": "/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
